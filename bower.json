@@ -1,0 +1,20 @@
+{
+  "name": "exercise-projects",
+  "homepage": "https://github.com/LandLan/exercise-projects",
+  "authors": [
+    "xupeilan <xupeilan@bonc.com.cn>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
